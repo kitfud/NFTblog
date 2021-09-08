@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Contactless Delivery
-slug: contactlessdelivery
+slug: /contactlessdelivery
 date: 2021-09-07 18:26
 description: contactless delivery, erogenous space
 featuredImage: /assets/eroginous-01.png
