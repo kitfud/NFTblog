@@ -13,7 +13,7 @@ const styles = {
   },
   pagination: {
     a: {
-      color: "muted",
+      color: "danger",
       "&.is-active": {
         color: "text",
       },
