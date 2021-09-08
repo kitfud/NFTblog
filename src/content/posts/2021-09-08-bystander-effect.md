@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Bystander Effect
-slug: bystandereffect
+slug: /bystandereffect
 date: 2021-09-07 17:36
 description: Bystander Effect, NFT
 featuredImage: /assets/bystander-01.png
