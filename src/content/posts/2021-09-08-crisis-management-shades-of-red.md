@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Crisis Management (shades of red)
-slug: shadesofred
+slug: /shadesofred
 date: 2021-09-07 18:18
 description: crisis management, shades of red NFT
 featuredImage: /assets/nuggetsred-01.png
