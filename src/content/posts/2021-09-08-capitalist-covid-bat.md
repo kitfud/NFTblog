@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Capitalist [Covid Bat]
-slug: covidbat
+slug: /covidbat
 date: 2021-09-07 18:15
 description: covid bat
 featuredImage: /assets/consume-01.png
