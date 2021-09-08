@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "World Pain: Stop Global Warming/Stop Covid-19"
-slug: worldpain
+slug: /worldpain
 date: 2021-09-07 17:47
 description: world pain, stop global warming, stop covid-19
 featuredImage: /assets/worldpain-01.png
