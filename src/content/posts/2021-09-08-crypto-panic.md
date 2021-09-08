@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Crypto Panic
-slug: cryptopanic
+slug: /cryptopanic
 date: 2021-09-07 17:56
 description: cryptocurrency panic NFT
 featuredImage: /assets/fomo-01.png
