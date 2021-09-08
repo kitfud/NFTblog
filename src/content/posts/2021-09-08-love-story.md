@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Love Story
-slug: love story
+slug: /lovestory
 date: 2021-09-07 18:42
 description: Love story NFT
 featuredImage: /assets/twobecomeoneai-01.png
