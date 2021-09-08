@@ -9,7 +9,7 @@ import Navigation from "./navigation"
 import "../assets/scss/style.scss"
 import Footer from "./footer"
 import Theme from "../components/theme"
-//import Search from "../components/search"
+
 
 const query = graphql`
   query LayoutQuery {
@@ -34,12 +34,12 @@ const Layout = ({ children, className, props }) => {
         <Logo title={siteTitle} />
         <div sx={layoutStyle.nav}>
           <div sx={{ display: ["flex", "flex", "flex", "none"] }}>
-            //<Search searchIndex={siteSearchIndex.index} />
+          
           </div>
           <Navigation />
         </div>
         <div sx={layoutStyle.appearance}>
-          //<Search searchIndex={siteSearchIndex.index} />
+         
           <Theme />
         </div>
       </Header>
