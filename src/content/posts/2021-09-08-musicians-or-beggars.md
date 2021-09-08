@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Musicians or Beggars?
-slug: musiciansorbeggars
+slug: /musiciansorbeggars
 date: 2021-09-07 18:36
 description: musicians or beggars NFT
 featuredImage: /assets/musicians-01.png
