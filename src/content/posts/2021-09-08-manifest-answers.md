@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Manifest Answers
-slug: manifest
+slug: /manifest
 date: 2021-09-07 18:51
 description: manifest answers NFT
 featuredImage: /assets/refraction-01.png
