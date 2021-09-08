@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Invisible Intersections
-slug: invisibleintersections
+slug: /invisibleintersections
 date: 2021-09-07 19:16
 description: Invisible Intersections NFT
 featuredImage: /assets/multiplessee-01.png
