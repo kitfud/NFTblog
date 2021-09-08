@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Social Distance
-slug: socialdistance
+slug: /socialdistance
 date: 2021-09-07 18:34
 description: social distance
 featuredImage: /assets/blond1-01.png
