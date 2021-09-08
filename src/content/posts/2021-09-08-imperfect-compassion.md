@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Imperfect Compassion
-slug: imperfectcompassion
+slug: /imperfectcompassion
 date: 2021-09-07 18:56
 description: imperfect compassion pieta
 featuredImage: /assets/pieta-01.png
