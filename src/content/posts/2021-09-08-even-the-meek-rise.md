@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Even The Meek Rise
-slug: meekrise
+slug: /meekrise
 date: 2021-09-07 19:03
 description: even the meek rise NFT
 featuredImage: /assets/caterpillar-01.png
