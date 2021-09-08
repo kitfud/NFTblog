@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Seductive Myths
-slug: seductive myths
+slug: /seductivemyths
 date: 2021-09-07 19:07
 description: leda and swan NFT
 featuredImage: /assets/ledaandswan-01.png
