@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Contact [Covid Flirt]
-slug: contact
+slug: contactlens
 date: 2021-09-07 18:03
 description: contact covid flirt
 featuredImage: /assets/contact-01.png
