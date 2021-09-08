@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Build Back Better
-slug: buildbackbetter
+slug: /buildbackbetter
 date: 2021-09-07 18:07
 description: build back better, elephant pooping
 featuredImage: /assets/broken-01.png
