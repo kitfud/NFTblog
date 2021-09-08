@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Resist Misinformation
-slug: resistmisinformation
+slug: /resistmisinformation
 date: 2021-09-07 18:29
 description: resist misinformation
 featuredImage: /assets/listen-01.png
