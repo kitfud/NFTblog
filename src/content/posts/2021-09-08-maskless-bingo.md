@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Maskless Bingo!
-slug: maskless bingo
+slug: /masklessbingo
 date: 2021-09-07 19:10
 description: maskless bingo NFT
 featuredImage: /assets/surprise-01.png
