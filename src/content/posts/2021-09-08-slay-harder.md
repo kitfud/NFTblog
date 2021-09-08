@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Slay Harder
-slug: catharsis
+slug: /slay
 date: 2021-09-07 17:40
 description: Catharsis, Slay Harder NFT
 featuredImage: /assets/catharsis-01.png
