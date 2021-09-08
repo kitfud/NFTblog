@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Deep Think
-slug: deep think
+slug: /deep think
 date: 2021-09-07 18:48
 description: deep think
 featuredImage: /assets/thinkdeeporiginal.png
