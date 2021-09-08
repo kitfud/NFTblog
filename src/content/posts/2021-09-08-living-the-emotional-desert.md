@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Living the Emotional Desert
-slug: emotionaldesert
+slug: /emotionaldesert
 date: 2021-09-07 19:13
 description: living the emotional desert NFT
 featuredImage: /assets/moabmadness-01.png
