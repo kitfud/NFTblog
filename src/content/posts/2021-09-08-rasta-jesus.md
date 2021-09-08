@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Rasta Jesus
-slug: rastajesus
+slug: /rastajesus
 date: 2021-09-07 17:43
 description: rasta jesus
 featuredImage: /assets/madonnachild-01.png
