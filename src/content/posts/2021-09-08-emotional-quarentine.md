@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Emotional Quarentine
-slug: /emotionalquarentine
+slug: /emotional
 date: 2021-09-07 18:44
 description: "emotional quarantine abstract "
 featuredImage: /assets/alone-01.png
