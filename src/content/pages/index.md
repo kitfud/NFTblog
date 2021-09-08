@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Kit Fuderich
 tagline: Artist/Educator
-featuredImage: /assets/multiplesseeresized.png
+featuredImage: /assets/multiplessee-01.png
 cta:
   ctaText: Know more
   ctaLink: /about
