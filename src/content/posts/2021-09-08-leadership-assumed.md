@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Leadership Assumed
-slug: leadership
+slug: /leadership
 date: 2021-09-07 18:22
 description: leadership assumed NFT
 featuredImage: /assets/compassion-01.png
