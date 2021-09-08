@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Kit Fuderich
+tagline: Artist/Educator
+featuredImage: /assets/multiplessee-01.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Kit is a mostly self taught, painter/digital artist. Characteristics of his work are bold lines and colors as well as the use of symbolism to evoke emotion and provoke thought.
