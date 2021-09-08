@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Living the New Normal
-slug: newnormal
+slug: /newnormal
 date: 2021-09-07 18:39
 description: new normal NFT
 featuredImage: /assets/waterglass-01.png
