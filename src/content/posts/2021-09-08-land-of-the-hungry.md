@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Land Of The Hungry
-slug: landofhungry
+slug: /landofhungry
 date: 2021-09-07 19:05
 description: land of hungry NFT
 featuredImage: /assets/inequality-01.png
