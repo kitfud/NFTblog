@@ -41,7 +41,7 @@ const themeStyles = {
   modeIcons: {
     display: "flex",
     alignItems: "center",
-    color: "#fff",
+    color: "#EE4B2B",
     mt: "10px",
   },
   modeText: {
