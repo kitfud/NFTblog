@@ -6,4 +6,4 @@ date: 2021-09-07 18:12
 description: natural body abstract
 featuredImage: /assets/abstract-01.png
 ---
-Natural body is a commentary identity and the aspects which go into building beauty and conceptions of the feminine in the western world. Oftentimes these are socially imposed and constructed- like building blocks.
+Natural body is a commentary on identity and the aspects which go into building beauty and conceptions of the feminine in the western world. Oftentimes these are socially imposed and constructed- like building blocks. This work is a challenge to idealized notions of form and beauty.
