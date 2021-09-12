@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About After The Storm, 2021
 ---
-Thank you so much for viewing my art. It is an intimate facet of my past and I hope to provoke ideas and reflection for the viewer. 
+Thank you so much for viewing my art. It is an intimate part of my past and I hope to provoke ideas and reflection for the viewer. 
 
 ![Love Is](/assets/mouselove-01.png "Love Is")
 
