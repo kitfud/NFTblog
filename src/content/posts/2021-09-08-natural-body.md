@@ -7,3 +7,5 @@ description: natural body abstract
 featuredImage: /assets/abstract-01.png
 ---
 Natural body is a commentary on identity and the aspects which go into building beauty and conceptions of the feminine in the western world. Oftentimes these are socially imposed and constructed- like building blocks. This work is a challenge to idealized notions of form and beauty.
+
+**[Buy Natural Body on OpenSea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/75511496996509083340559006059282024395904634734945582606826898898554307215361)**
