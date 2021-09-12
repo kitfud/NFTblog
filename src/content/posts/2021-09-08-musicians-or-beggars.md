@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Musicians or Beggars?
+title: Essential Workers
 slug: /musiciansorbeggars
 date: 2021-09-07 18:36
 description: musicians or beggars NFT
