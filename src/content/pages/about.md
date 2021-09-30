@@ -7,7 +7,7 @@ Thank you so much for viewing my art. It is an intimate part of my past and I ho
 
 ![Love Is](/assets/mouselove-01.png "Love Is")
 
-When I first started producing digital art it was with the most simple of digital drawing tools. These outlets provided a means for me to showcase my feelings and emotions through spontaneous drawing sessions. 10+ years on I've realized the possibility of reinterpreting some of the digital work I made many years ago- to learn from the images and to tell a story. 
+When I first started producing digital art it was with the simplest of digital drawing tools. These outlets provided a means for me to showcase my feelings and emotions through spontaneous drawing sessions. 10+ years on I've realized the possibility of reinterpreting some of the digital work I made many years ago- to learn from the images and to tell a story. 
 
 Today, the transition to appropriating my artwork into NFTs represents a venture- one I hope will bring more visibility to some of the issues and ideas I attempt to raise as well as document the 2021 context. 
 
